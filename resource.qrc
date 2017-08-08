@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Custom-Icon-Design-Mono-General-2-Cut.ico</file>
+        <file>img/Icons8-Ios7-Very-Basic-Copy.ico</file>
+        <file>img/Icons8-Windows-8-Editing-Paste.ico</file>
+    </qresource>
+</RCC>
