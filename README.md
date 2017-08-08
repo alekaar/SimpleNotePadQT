@@ -1,0 +1,2 @@
+# SimpleNotePadQT
+Testing out QT
